@@ -42,6 +42,8 @@ Users should be able to:
 - I set up react using node js.
 - I hosted the app using gh pages.
 - I installed sass using node js.
+- I created components.
+- I added marked cdn link; it's a low-level markdown compiler for parsing markdown language. 
 
 ### Built with
 
