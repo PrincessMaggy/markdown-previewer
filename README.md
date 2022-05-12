@@ -23,8 +23,7 @@ This is a solution to the [Markdown Previewer challenge on Free Code Camp]
 ### The challenge
 
 Users should be able to:
-
-
+Enter GitHub flavored markdown into the #editor element and the text will be rendered as HTML in the #preview element.
 
 
 ### Screenshot
