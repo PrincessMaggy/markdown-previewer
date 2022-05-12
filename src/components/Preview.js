@@ -12,7 +12,7 @@ const Preview =({markdown}) =>{
 
 
     return(
-        <div
+        <div className="output"
             dangerouslySetInnerHTML ={{
                 __html:marked(markdown, {renderer: renderer}),
             }}

@@ -43,7 +43,7 @@ Users should be able to:
 - I hosted the app using gh pages.
 - I installed sass using node js.
 - I created components.
-- I added marked cdn link; it's a low-level markdown compiler for parsing markdown language. 
+- I installed the marked library; it's a low-level markdown compiler for parsing markdown language. 
 
 ### Built with
 
@@ -52,7 +52,7 @@ Users should be able to:
 - React
 
 ## Useful Resources
-[]
+[https://www.youtube.com/watch?v=dW0vY5vvU1U&t=555s]
 ## Author
 
 - Website - [PrincessMaggy](https://princessmaggy.github.io/My-Portfolio/)
