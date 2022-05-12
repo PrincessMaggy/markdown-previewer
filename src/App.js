@@ -15,7 +15,7 @@ function App() {
         <h1>Markdown Previewer</h1>
         <textarea 
         name="text" 
-        id="text" 
+        id="editor" 
         cols="30" 
         rows="10" 
         value={text}
