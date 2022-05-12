@@ -4,12 +4,6 @@ import Preview from './components/Preview';
 // importing styles
 import './styles/app.scss';
 
-marked.setOptions({
-  breaks:true
-})
-
-const renderer = new marked.Renderer();
-
 
 function App() {
 
